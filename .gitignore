@@ -1,6 +1,6 @@
-.obj
-.exp
-.dll
+*.obj
+*.exp
+*.dll
 
 modify_gml/
 ImGUI_GML/
